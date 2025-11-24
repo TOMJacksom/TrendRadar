@@ -1,10 +1,6 @@
 banana pro
 
-gemini 3
-+案例
-
 语音输入
-+豆包
 
 开拓者
 +杨瀚森
@@ -15,8 +11,14 @@ gemini 3
 veo3.1
 海螺
 
+openAI
+chatgpt
+gemini
+claude
+@10
+
 AI
-视频生成
++应用
 
 中超
 足协
@@ -24,5 +26,11 @@ AI
 
 日本
 韩国
+@5
+
+男篮
++中国
+
+
 
 
