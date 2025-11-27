@@ -133,8 +133,6 @@ platforms:
     name: "雪球"
   - id: "jin10"
     name: "金十数据"
-  - id: "fastbull"
-    name: "快讯通"
 
   # === 社交/短视频/娱乐类 ===
   - id: "weibo"
